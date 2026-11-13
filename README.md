@@ -10,7 +10,7 @@ Meu nome é João Guilherme, tenho 17 anos e atuo na área de desenvolvimento de
  
 #
 
-<img align="right" alt="" height="190px" src="./src/gato.gif">
+<img align="right" alt="" height="190px" src="./src/friren.gif">
 
 <h3 align="left">Connect with me!</h3>
 
