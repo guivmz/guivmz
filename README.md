@@ -7,7 +7,7 @@
 #
 
 Meu nome é João Guilherme, tenho 17 anos e atuo na área de desenvolvimento de software e automação. Possuo conhecimentos em Python, C++, C, Lua e SQL, aplicados ao desenvolvimento de soluções e à criação de projetos. Tenho grande domínio do ambiente Linux, especialmente da distribuição Arch Linux, com experiência em configuração, personalização e administração do sistema. Sou interessado em tecnologia, com foco no aprimoramento contínuo das minhas habilidades e na busca por soluções eficientes e inovadoras.
- 
+
 #
 
 <img align="right" alt="" height="190px" src="./src/friren.gif">
@@ -18,93 +18,44 @@ Meu nome é João Guilherme, tenho 17 anos e atuo na área de desenvolvimento de
 
 <h3 align="left">My Stack ~</h3>
 
-<img 
-    align="left" 
-    alt="LUAU"
-    title="LUAU" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg"
-/>
-<img 
-    align="left" 
-    alt="C++" 
-    title="C++"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
-/>
-<img 
-    align="left" 
-    alt="SQL" 
-    title="SQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-/>
+<img align="left" alt="LUAU" title="LUAU" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg"/>
 
-<img
-    align="left"
-    alt="Github"
-    title="GitHub"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-/>
+<img align="left" alt="C++" title="C++" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+<img align="left" alt="SQL" title="SQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+<img align="left" alt="Github" title="GitHub" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
 
-<img
-    align="left"
-    alt="Vercel"
-    title="Vercel"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"
-/>
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+
+<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+
+<img align="left" alt="Vercel" title="Vercel" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"/>
+
 <br/>
 <br/>
 
 <h3 align="left">GitHub Stats</h3>
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
+  <img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right: 10px;"
     src="https://github-readme-stats-two-omega-43.vercel.app/api?username=guivmz&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=paulopontodev&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
+  <img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=guivmz&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff"
   />
-
 </p>
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guivmz/guivmz/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guivmz/guivmz/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/guivmz/guivmz/output/github-contribution-grid-snake.svg">
 </picture>
-
-
