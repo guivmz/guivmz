@@ -8,7 +8,7 @@
   />
 
   <p>
-    <strong>Fear the old blood.</strong>
+    <strong></strong>
   </p>
 
   <!-- Profile Views -->
