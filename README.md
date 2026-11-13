@@ -36,11 +36,11 @@ Meu nome é João Guilherme, tenho 17 anos e atuo na área de desenvolvimento de
 />
 <img 
     align="left" 
-    alt="C" 
-    title="C"
+    alt="SQL" 
+    title="SQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
 
 <img
