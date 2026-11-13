@@ -1,4 +1,25 @@
 <div align="center">
+
+  <!-- Banner -->
+  <img
+    src="https://i.pinimg.com/originals/c6/39/f7/c639f7108271abcde2b893123aa0bff0.webp"
+    width="100%"
+    alt="banner"
+  />
+
+  <p>
+    <strong>Fear the old blood.</strong>
+  </p>
+
+  <!-- Profile Views -->
+  <img
+    src="https://komarev.com/ghpvc/?username=guivmz&label=PROFILE%20VIEWS&color=C5A44E&labelColor=444444&style=flat"
+    alt="Profile Views"
+  />
+
+</div>
+
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
@@ -56,6 +77,6 @@ Meu nome é João Guilherme, tenho 17 anos e atuo na área de desenvolvimento de
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guivmz/guivmz/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guivmz/guivmz/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guivmz/guivmz/output/github-contribution-grid-snake.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/guivmz/guivmz/output/github-contribution-grid-snake.svg">
 </picture>
