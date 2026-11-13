@@ -20,11 +20,11 @@ Meu nome é João Guilherme, tenho 17 anos e atuo na área de desenvolvimento de
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="LUAU"
+    title="LUAU" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="<i class="devicon-aarch64-plain "></i>" 
 />
 <img 
     align="left" 
