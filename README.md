@@ -6,8 +6,7 @@
 
 #
 
-Me chamo Paulo Queiroz, tenho 24 anos e moro em Juiz de Fora - MG. Atualmente curso Análise e Desenvolvimento de Sistemas na FIAP. Sou apaixonado por tecnologia, curioso sobre Hardware e compartilho meu conhecimento através do
-meu canal no YouTube "[PauloDev](https://www.youtube.com/@paulopontodev)".
+Meu nome é João Guilherme, tenho 17 anos e atuo na área de desenvolvimento de software e automação. Possuo conhecimentos em Python, C++, C, Lua e SQL, aplicados ao desenvolvimento de soluções e à criação de projetos. Tenho grande domínio do ambiente Linux, especialmente da distribuição Arch Linux, com experiência em configuração, personalização e administração do sistema. Sou interessado em tecnologia, com foco no aprimoramento contínuo das minhas habilidades e na busca por soluções eficientes e inovadoras.
  
 #
 
